@@ -13,21 +13,6 @@ The inspiration for **PathoBin Protect** stems from my personal experience livin
 - Arduino IDE
 - Breadboard and Jumper Wires
 
-## Challenges we ran into
-
-1. Initially, the MQ-2 gas sensor was unavailable, so we switched to an Enviro+ Air Quality sensor using heavier microprocessors, which complicated setup. Thankfully, the MQ-2 sensor became available later.
-2. The MQ-2 sensor initially wasn't providing correct readings due to confusion with GPIO pins (incorrectly using pins 32-39 instead of the required GPIO pins 1-7), resulting in debugging delays.
-3. Transitioning into hardware was challenging due to my limited prior experience; the steep learning curve required quickly acquiring new skills.
-4. Pivoting to a focused biohazard detection concept took some time, resulting in delayed technical development that began late on Saturday afternoon.
-
-## Accomplishments that we're proud of
-
-Going into hardware was a steep learning curve because I had no prior experience with physical hardware components. However, this idea deeply resonates with my passion for public health, safety, and making a positive impact. It's motivating to work on something meaningful, and I'm excited to continue building and progressing with PathoBin Protect.
-
-## What we learned
-
-I gained significant hands-on experience integrating hardware with IoT solutions and troubleshooting sensor-specific challenges. I also learned valuable lessons about rapid prototyping, technical pivots, and aligning project scope closely with hackathon guidelines.
-
 ## What's next for PathoBin Protect
 
 Future steps include:
